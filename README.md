@@ -2,18 +2,11 @@
 Hello, world! :wave:
 </p>
 
-I spend my days building software and learning new skills, because that's what I :heart: doing. 
-Python was my first programming love and I enjoyed learning all about its data-science stack but I am using more and more of C++, C#, and Javascript right now. 
+At some point my interest in trading and investing introduced me to Python and led me down a fun road of learning all about its data-science stack. Now I spend my days building software and learning new skills, because that's what I :heart: doing. 
 
-I regularly work on [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars), which is an interesting alternative to [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars) 
+Besides freelancing, I occasionally work on [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars), which I found to be an interesting alternative to [exchange_calendars](https://github.com/gerrymanoim/exchange_calendars). If you want to see more, check out some of my pet projects below.
 
-If you need someone to help you with a data related project, you can send me an e-mail at: marcel.pieper@outlook.com
-
-
-
-
-
-
+I love building the backend to applications, especially when lots of data is involved. If you could use some help, send me an e-mail at: marcel.pieper@outlook.com
 
 
 
